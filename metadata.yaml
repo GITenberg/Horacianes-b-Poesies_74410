@@ -1,0 +1,25 @@
+_repo: Horacianes-b-Poesies_74410
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Llobera, Miquel Costa i
+    gutenberg_agent_id: '57491'
+    url: http://www.gutenberg.org/2009/agents/57491
+description: ''
+gutenberg_issued: '2024-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74410'
+language: ca
+pgterms:marc905: 20240909084504costaillob
+pgterms:marc906: '1906'
+pgterms:marc907: ES
+production_note: edició digital. Joan Queralt Gil
+publication_note: '  $aBarcelona :$bIlustració catalana, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Horacianes : $b Poesies'
+url: http://www.gutenberg.org/ebooks/74410
