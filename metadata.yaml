@@ -1,11 +1,16 @@
 _repo: Horacianes-b-Poesies_74410
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74410-h/images/cover.jpg
 creator:
   author:
     agent_name: Llobera, Miquel Costa i
     gutenberg_agent_id: '57491'
     url: http://www.gutenberg.org/2009/agents/57491
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74410#Horacianes-b-Poesies
 gutenberg_issued: '2024-09-13'
 gutenberg_type: Text
 identifiers:
